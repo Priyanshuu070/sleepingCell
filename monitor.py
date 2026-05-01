@@ -426,6 +426,8 @@ def send_email(diff_text: str, new_fields: dict):
 
     body = f"""Hi Priyanshu,
 
+CDC is sleeping but you are not. Fill the namankan Form ASAP.
+
 The placement form has been updated. Fill it before the deadline!
 
 CHANGES DETECTED:
