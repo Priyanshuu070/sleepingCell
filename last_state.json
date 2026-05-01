@@ -1,0 +1,82 @@
+{
+  "hash": "afcff0288b2a0ef81ddd7b0510ae019979b8fa27489760c9c674e2bfa25dd51c",
+  "fields": {
+    "Minimum\u00a0CTC [In LPA]?": {
+      "type": "text",
+      "options": []
+    },
+    "Job Role ?": {
+      "type": "text",
+      "options": []
+    },
+    "Company Type ? (You are looking for)": {
+      "type": "text",
+      "options": [
+        "Digital Marketing",
+        "IT",
+        "Logistics",
+        "Other:",
+        "Sales"
+      ]
+    },
+    "Job location you are looking for": {
+      "type": "text",
+      "options": [
+        "All over India",
+        "Delhi NCR",
+        "Other:"
+      ]
+    },
+    "Candidate's Name": {
+      "type": "text",
+      "options": []
+    },
+    "Contact Number": {
+      "type": "text",
+      "options": []
+    },
+    "Additional Contact Number": {
+      "type": "text",
+      "options": []
+    },
+    "Course": {
+      "type": "choice",
+      "options": [
+        "B.Tech."
+      ]
+    },
+    "Specialization/ Branch": {
+      "type": "choice",
+      "options": [
+        "Artificial Intelligence & Machine Learning (AI&ML)",
+        "Artificial Intelligence (AI)",
+        "Computer Science & Engineering (CSE)",
+        "Computer Science & Technology (CST)",
+        "Data Science (DS)",
+        "ECE - ACT (Advance Communiation Technology )",
+        "EE - VLSI (Very Large Scale Intigration)",
+        "Electrical & Electronics Engineering (EEE)",
+        "Electronics & Communication Engineering (ECE)",
+        "Information Technology & Engineering (ITE)",
+        "Information Technology (IT)",
+        "Mechanical & Automation Engineering (MAE)",
+        "Mechanical Engineering (ME)"
+      ]
+    },
+    "Enrollment Number": {
+      "type": "text",
+      "options": []
+    },
+    "Passing out Year": {
+      "type": "choice",
+      "options": [
+        "2027"
+      ]
+    },
+    "Upload Latest Resume": {
+      "type": "file_upload",
+      "options": []
+    }
+  },
+  "updated_at": "2026-05-01 17:35:39.617333"
+}
